@@ -24,44 +24,44 @@ const alwi = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
       <br>HTML
       <br><strong>Middle</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
       <br>CSS
       <br><strong>Middle</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
       <br><strong>Beginner</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
       <br><strong>Middle</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React.js
       <br><strong>Beginner</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
       <br>Node.js
       <br><strong>Beginner</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
       <br>Express.js
       <br><strong>Beginner</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
       <br><strong>Beginner</strong>
     </td>
@@ -71,8 +71,8 @@ const alwi = {
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanbrembo14&show_icons=true&theme=blue-green" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanbrembo14&layout=compact&theme=blue-green" alt="Most Used Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue-green" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blue-green" alt="Most Used Languages" height="170"/>
 </div>
 
 ## 🏆 Featured Projects
@@ -110,7 +110,7 @@ Other        █░░░░░░░░░░░░░░░░   05.00 %
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samanbrembo14&color=0D47A1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0D47A1&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Futuristic wave animation -->
