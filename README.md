@@ -24,12 +24,12 @@ const alwi = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
       <br>HTML
       <br><strong>Middle</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
       <br>CSS
       <br><strong>Middle</strong>
     </td>
@@ -51,7 +51,7 @@ const alwi = {
       <br><strong>Beginner</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
       <br>Node.js
       <br><strong>Beginner</strong>
     </td>
