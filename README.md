@@ -71,8 +71,8 @@ const alwi = {
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue-green" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blue-green" alt="Most Used Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samanbrembo14&show_icons=true&theme=blue-green" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanbrembo14&layout=compact&theme=blue-green" alt="Most Used Languages" height="170"/>
 </div>
 
 ## 🏆 Featured Projects
@@ -110,7 +110,7 @@ Other        █░░░░░░░░░░░░░░░░   05.00 %
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0D47A1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=samanbrembo14&color=0D47A1&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Futuristic wave animation -->
